@@ -1,0 +1,415 @@
+HTTrack3.48-21 launched on Fri, 20 May 2016 01:19:41 at http://museopedrodeosma.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -iC1 http://museopedrodeosma.org/ -O "/home/merunga/websites/museopedrodeosma" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:19:41	Warning: 	Cache: damaged cache, trying to repair
+01:19:41	Warning: 	Cache: 608996 bytes successfully recovered in 382 entries
+01:19:41	Warning: 	Note: due to museopedrodeosma.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:19:41	Warning: 	Moved Temporarily for museopedrodeosma.org/
+01:19:41	Warning: 	File has moved from museopedrodeosma.org/ to http://museopedrodeosma.org/en/
+01:19:41	Error: 	"Not Found" (404) at link museopedrodeosma.org/xmlrpc.php (from museopedrodeosma.org/en/)
+01:19:41	Error: 	"Not Found" (404) at link museopedrodeosma.org/xmlrpc.php?rsd (from museopedrodeosma.org/en/)
+01:19:41	Warning: 	Moved Temporarily for museopedrodeosma.org/es/
+01:19:41	Warning: 	File has moved from museopedrodeosma.org/es/ to http://museopedrodeosma.org/
+01:19:41	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/ckfinder/userfiles/files/inicial Post visita(1).html.tmp already exists
+01:19:41	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/ckfinder/userfiles/files/Previsita primaria-Creando símbolos - FINAL.html.tmp already exists
+01:19:41	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/ckfinder/userfiles/files/Postvisita primaria-HablaPalabra - FINAL.html.tmp already exists
+01:19:41	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/ckfinder/userfiles/files/pre visita secundaria - teatro - FINAL(1).html.tmp already exists
+01:19:41	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/ckfinder/userfiles/files/post visita secundaria - caleidoscopio FINAL.html.tmp already exists
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=104
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=104 to http://museopedrodeosma.org/en/el-museo/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/taller-de-restauracion/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index0a64.html.tmp already exists
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/el-museo/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/el-museo/ to http://museopedrodeosma.org/el-museo/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/eventos-corporativos/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index8005.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/sesion-de-fotos-filmaciones/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/indexcbbe.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/reproduccion-de-imagen/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1ce4.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedc7d2.json.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/taller-de-restauracion/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/feed/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-json/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedc50f.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index9430.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index3661.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed2c03.json.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index3e5f.html.tmp already exists
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/quienes-somos-2/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/quienes-somos-2/ to http://museopedrodeosma.org/en/quienes-somos-2/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1375
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1375 to http://museopedrodeosma.org/en/quienes-somos/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/quienes-somos/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/quienes-somos/ to http://museopedrodeosma.org/quienes-somos/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1381
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1381 to http://museopedrodeosma.org/en/historia/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/historia/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/historia/ to http://museopedrodeosma.org/historia/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1385
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1385 to http://museopedrodeosma.org/en/quienes-somos-2/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/quienes-somos-2/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/quienes-somos-2/ to http://museopedrodeosma.org/quienes-somos-2/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=43
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=43 to http://museopedrodeosma.org/en/visitanos/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/visitanos/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/visitanos/ to http://museopedrodeosma.org/visitanos/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index4170.html.tmp already exists
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/educacion/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/educacion/ to http://museopedrodeosma.org/en/educacion/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/familias/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/familias/ to http://museopedrodeosma.org/en/familias/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/adulto-mayor/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/adulto-mayor/ to http://museopedrodeosma.org/en/adulto-mayor/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/audio-guias/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/audio-guias/ to http://museopedrodeosma.org/en/audio-guias/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/recursos-educativos/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/recursos-educativos/ to http://museopedrodeosma.org/en/recursos-educativos/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1333
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1333 to http://museopedrodeosma.org/en/audio-guias/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/audio-guias/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/audio-guias/ to http://museopedrodeosma.org/audio-guias/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1321
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1321 to http://museopedrodeosma.org/en/educacion/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/educacion/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/educacion/ to http://museopedrodeosma.org/educacion/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1325
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1325 to http://museopedrodeosma.org/en/familias/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/familias/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/familias/ to http://museopedrodeosma.org/familias/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1329
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1329 to http://museopedrodeosma.org/en/adulto-mayor/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/adulto-mayor/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/adulto-mayor/ to http://museopedrodeosma.org/adulto-mayor/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1337
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1337 to http://museopedrodeosma.org/en/recursos/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/recursos/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/recursos/ to http://museopedrodeosma.org/recursos/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/recursos-educativos/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexcfab.html.tmp already exists
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=58
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=58 to http://museopedrodeosma.org/en/coleccion/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/coleccion/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/coleccion/ to http://museopedrodeosma.org/coleccion/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/coleccion/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/coleccion/ to http://museopedrodeosma.org/en/coleccion/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/taller-de-restauracion-2/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/taller-de-restauracion-2/ to http://museopedrodeosma.org/en/taller-de-restauracion-2/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1569
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1569 to http://museopedrodeosma.org/en/temas/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/temas/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/temas/ to http://museopedrodeosma.org/temas/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/temas/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/temas/ to http://museopedrodeosma.org/en/temas/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1392
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1392 to http://museopedrodeosma.org/en/mapa-de-las-salas-del-museo/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/mapa-de-las-salas-del-museo/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/mapa-de-las-salas-del-museo/ to http://museopedrodeosma.org/mapa-de-las-salas-del-museo/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed14ce.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexd486.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed5804.json.tmp already exists
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1396
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1396 to http://museopedrodeosma.org/en/taller-de-restauracion-2/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/taller-de-restauracion-2/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/taller-de-restauracion-2/ to http://museopedrodeosma.org/taller-de-restauracion-2/
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=153
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=153 to http://museopedrodeosma.org/en/agenda/
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/agenda/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/agenda/ to http://museopedrodeosma.org/agenda/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedd307.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexd7d8.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedb9fc.json.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed9e4c.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/author/admin/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/26/harto-arte/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/26/vuelve-la-noche-de-los-museos/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/16/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/category/uncategorized/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index4fb0.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/author/admin/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1f6b.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index8e42.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index267f.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index41b7.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index94a5.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/indexfc06.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index6944.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/indexd34f.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/indexf785.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/02/26/harto-arte/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/02/26/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index6cd8.html.tmp already exists
+01:19:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=156
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=156 to http://museopedrodeosma.org/en/servicios/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/02/26/vuelve-la-noche-de-los-museos/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/04/index.html.tmp already exists
+01:19:42	Warning: 	Moved Temporarily for museopedrodeosma.org/es/servicios/
+01:19:42	Warning: 	File has moved from museopedrodeosma.org/es/servicios/ to http://museopedrodeosma.org/servicios/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/05/16/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/05/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/02/index.html.tmp already exists
+01:19:42	Warning: 	HTML file (10900 bytes) retransferred due to lack of cache: museopedrodeosma.org/en/category/uncategorized/feed/
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/category/uncategorized/index.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexd1a7.html.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed27eb.json.tmp already exists
+01:19:42	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index0a64.html.tmp already exists
+01:19:43	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index8005.html.tmp already exists
+01:19:44	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexcbbe.html.tmp already exists
+01:19:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Freproduccion-de-imagen%2F&format=xml
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/taller-de-restauracion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/taller-de-restauracion/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1348 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index0a64.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/eventos-corporativos/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/eventos-corporativos/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1352 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index8005.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/sesion-de-fotos-filmaciones/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/sesion-de-fotos-filmaciones/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1356 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/indexcbbe.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/reproduccion-de-imagen/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/reproduccion-de-imagen/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1360 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1ce4.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/taller-de-restauracion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/taller-de-restauracion/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/feed/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/feed/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/wp-json/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-json/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=104 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index9430.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fel-museo%2F (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedc7d2.json), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fel-museo%2F&format=xml (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedc50f), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1375 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index3661.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fquienes-somos%2F (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed2c03.json), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1381 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index3e5f.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=43 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index4170.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/recursos-educativos/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/recursos-educativos/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1337 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexcfab.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Frecursos%2F&format=xml (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed14ce), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1392 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexd486.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fmapa-de-las-salas-del-museo%2F (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed5804.json), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fmapa-de-las-salas-del-museo%2F&format=xml (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedd307), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=153 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/indexd7d8.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fagenda%2F (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embedb9fc.json), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fagenda%2F&format=xml (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed9e4c), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/author/admin/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/author/admin/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/02/26/harto-arte/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/26/harto-arte/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/02/26/vuelve-la-noche-de-los-museos/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/26/vuelve-la-noche-de-los-museos/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/04/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/05/16/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/16/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/05/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/05/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/02/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/02/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/category/uncategorized/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/category/uncategorized/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1696 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index4fb0.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/author/admin/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/author/admin/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1492 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1f6b.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/index.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=5 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index8e42.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=6 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index267f.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=7 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index41b7.html), file disappeared: No such file or directory
+01:19:45	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=8 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index94a5.html), file disappeared: No such file or directory
+01:19:45	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1483
+01:19:45	Warning: 	File has moved from museopedrodeosma.org/en/?p=1483 to http://museopedrodeosma.org/en/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:19:46	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:19:46	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/ to http://museopedrodeosma.org/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:19:46	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=931
+01:19:47	Warning: 	File has moved from museopedrodeosma.org/en/?p=931 to http://museopedrodeosma.org/en/2016/02/26/harto-arte/
+01:19:47	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/26/harto-arte/
+01:19:47	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/26/harto-arte/ to http://museopedrodeosma.org/2016/02/26/harto-arte/
+01:19:48	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=924
+01:19:48	Warning: 	File has moved from museopedrodeosma.org/en/?p=924 to http://museopedrodeosma.org/en/2016/02/26/vuelve-la-noche-de-los-museos/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/26/vuelve-la-noche-de-los-museos/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/26/vuelve-la-noche-de-los-museos/ to http://museopedrodeosma.org/2016/02/26/vuelve-la-noche-de-los-museos/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/ to http://museopedrodeosma.org/2016/04/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/05/16/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/05/16/ to http://museopedrodeosma.org/2016/05/16/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/05/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/05/ to http://museopedrodeosma.org/2016/05/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/ to http://museopedrodeosma.org/2016/02/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/category/uncategorized/
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/category/uncategorized/ to http://museopedrodeosma.org/category/uncategorized/
+01:20:01	Warning: 	Moved Permanently for museopedrodeosma.org/?p=156
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/?p=156 to http://museopedrodeosma.org/servicios/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/?p=1348
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/?p=1348 to http://museopedrodeosma.org/en/?p=1348
+01:20:01	Error: 	"Not Found" (404) at link museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Feventos-corporativos%2F (from museopedrodeosma.org/eventos-corporativos/)
+01:20:01	Warning: 	Moved Permanently for museopedrodeosma.org/?p=1352
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/?p=1352 to http://museopedrodeosma.org/sesion-de-fotos-filmaciones/
+01:20:01	Warning: 	Moved Permanently for museopedrodeosma.org/?p=1356
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/?p=1356 to http://museopedrodeosma.org/reproduccion-de-imagen/
+01:20:01	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=9
+01:20:01	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=9 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=9
+01:20:06	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=10
+01:20:06	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=10 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=10
+01:20:18	Warning: 	HTML file (53665 bytes) retransferred due to lack of cache: museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=8
+01:20:22	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/
+01:20:22	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/ to http://museopedrodeosma.org/2016/04/18/
+01:20:22	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/2016/04/18/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/2016/04/18/index.html), file disappeared: No such file or directory
+01:20:22	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/26/
+01:20:22	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/26/ to http://museopedrodeosma.org/2016/02/26/
+01:20:22	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1492 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index1f6b.html), file disappeared: No such file or directory
+01:20:25	Warning: 	HTML file (870 bytes) retransferred due to lack of cache: museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=5
+01:20:25	Warning: 	HTML file (870 bytes) retransferred due to lack of cache: museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=6
+01:20:26	Warning: 	HTML file (870 bytes) retransferred due to lack of cache: museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=7
+01:20:26	Warning: 	HTML file (870 bytes) retransferred due to lack of cache: museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=8
+01:20:26	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=5
+01:20:26	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=5 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=5
+01:20:26	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=6
+01:20:26	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=6 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=6
+01:20:27	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=7
+01:20:27	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=7 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=7
+01:20:27	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=8
+01:20:27	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=8 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=8
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/wc-gallery/includes/css/magnific-popupe2dc.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/wc-gallery/includes/vendors/flexslider/flexslider0875.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/wc-gallery/includes/vendors/owlcarousel/assets/owl.carousel1598.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/wc-gallery/includes/vendors/owlcarousel/assets/owl.theme.default1598.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/style4468.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/epanel/shortcodes/css/shortcodes6aec.css.tmp already exists
+01:20:27	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/epanel/shortcodes/css/shortcodes_responsive6aec.css.tmp already exists
+01:20:28	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/includes/builder/styles/magnific_popup4468.css.tmp already exists
+01:20:28	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/responsive-tabs-pro/css/rtbs_style.mincb20.css.tmp already exists
+01:20:28	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css.tmp already exists
+01:20:28	Warning: 	engine: warning: temporary file /home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/plugins/lightweight-social-icons/css/style.css.tmp already exists
+01:20:47	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/epanel/shortcodes/css/shortcodes.css?ver=3.0 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-content/themes/Divi 2.5.5/Divi-2.5.5/epanel/shortcodes/css/shortcodes6aec.css), file disappeared: No such file or directory
+01:20:47	Warning: 	HTML file (10900 bytes) retransferred due to lack of cache: museopedrodeosma.org/en/category/uncategorized/feed/
+01:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Fsesion-de-fotos-filmaciones%2F&format=xml
+01:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Freproduccion-de-imagen%2F&format=xml
+01:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Freproduccion-de-imagen%2F
+01:20:48	Error: 	"" (404) at link museopedrodeosma.org/xmlrpc.php?rsd (from museopedrodeosma.org/en/)
+01:20:48	Warning: 	HTML file (7452 bytes) retransferred due to lack of cache: museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/feed/
+01:20:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2F2016%2F04%2F18%2Fitalian-glamour-lima-2016%2F
+01:20:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): museopedrodeosma.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2F2016%2F04%2F18%2Fitalian-glamour-lima-2016%2F&format=xml
+01:20:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/
+01:20:50	Warning: 	File has moved from museopedrodeosma.org/es/ to http://museopedrodeosma.org/
+01:21:24	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=104
+01:21:24	Warning: 	File has moved from museopedrodeosma.org/en/?p=104 to http://museopedrodeosma.org/en/el-museo/
+01:21:31	Warning: 	Moved Temporarily for museopedrodeosma.org/es/el-museo/
+01:21:31	Warning: 	File has moved from museopedrodeosma.org/es/el-museo/ to http://museopedrodeosma.org/el-museo/
+01:21:42	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1375
+01:21:42	Warning: 	File has moved from museopedrodeosma.org/en/?p=1375 to http://museopedrodeosma.org/en/quienes-somos/
+01:21:47	Warning: 	Moved Temporarily for museopedrodeosma.org/es/quienes-somos/
+01:21:47	Warning: 	File has moved from museopedrodeosma.org/es/quienes-somos/ to http://museopedrodeosma.org/quienes-somos/
+01:21:49	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1381
+01:21:49	Warning: 	File has moved from museopedrodeosma.org/en/?p=1381 to http://museopedrodeosma.org/en/historia/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/historia/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/historia/ to http://museopedrodeosma.org/historia/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1385
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1385 to http://museopedrodeosma.org/en/quienes-somos-2/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/quienes-somos-2/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/quienes-somos-2/ to http://museopedrodeosma.org/quienes-somos-2/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=43
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=43 to http://museopedrodeosma.org/en/visitanos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/visitanos/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/visitanos/ to http://museopedrodeosma.org/visitanos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/educacion/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/educacion/ to http://museopedrodeosma.org/en/educacion/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/audio-guias/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/audio-guias/ to http://museopedrodeosma.org/audio-guias/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/educacion/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/educacion/ to http://museopedrodeosma.org/educacion/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1325
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1325 to http://museopedrodeosma.org/en/familias/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/familias/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/familias/ to http://museopedrodeosma.org/familias/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1329
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1329 to http://museopedrodeosma.org/en/adulto-mayor/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/adulto-mayor/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/adulto-mayor/ to http://museopedrodeosma.org/adulto-mayor/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1337
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1337 to http://museopedrodeosma.org/en/recursos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/recursos/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/recursos/ to http://museopedrodeosma.org/recursos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/ckfinder/userfiles/files/inicial Pre visita(1).pdf
+01:21:50	Warning: 	Warning moved treated for museopedrodeosma.org/es/ckfinder/userfiles/files/inicial Pre visita(1).pdf (real one is museopedrodeosma.org/ckfinder/userfiles/files/inicial%20Pre%20visita(1).pdf)
+01:21:50	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/inicial%20Post%20visita(1).pdf (from museopedrodeosma.org/en/recursos/)
+01:21:50	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/Previsita%20primaria-Creando%20s%c3%admbolos%20-%20FINAL.pdf (from museopedrodeosma.org/en/recursos/)
+01:21:50	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/Postvisita%20primaria-HablaPalabra%20-%20FINAL.pdf (from museopedrodeosma.org/en/recursos/)
+01:21:50	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/pre%20visita%20secundaria%20-%20teatro%20-%20FINAL(1).pdf (from museopedrodeosma.org/en/recursos/)
+01:21:50	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/post%20visita%20secundaria%20-%20caleidoscopio%20FINAL.pdf (from museopedrodeosma.org/en/recursos/)
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/coleccion/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/coleccion/ to http://museopedrodeosma.org/coleccion/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1569
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1569 to http://museopedrodeosma.org/en/temas/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/temas/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/temas/ to http://museopedrodeosma.org/temas/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1392
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1392 to http://museopedrodeosma.org/en/mapa-de-las-salas-del-museo/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/mapa-de-las-salas-del-museo/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/mapa-de-las-salas-del-museo/ to http://museopedrodeosma.org/mapa-de-las-salas-del-museo/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1396
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1396 to http://museopedrodeosma.org/en/taller-de-restauracion-2/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/taller-de-restauracion-2/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/taller-de-restauracion-2/ to http://museopedrodeosma.org/taller-de-restauracion-2/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=153
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=153 to http://museopedrodeosma.org/en/agenda/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/agenda/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/agenda/ to http://museopedrodeosma.org/agenda/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=156
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=156 to http://museopedrodeosma.org/en/servicios/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/servicios/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/servicios/ to http://museopedrodeosma.org/servicios/
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1348 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index0a64.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/eventos-corporativos/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/eventos-corporativos/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1352 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index8005.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/sesion-de-fotos-filmaciones/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/sesion-de-fotos-filmaciones/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1356 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/indexcbbe.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/reproduccion-de-imagen/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/reproduccion-de-imagen/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1360 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1ce4.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/taller-de-restauracion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/taller-de-restauracion/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/feed/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/feed/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/wp-json/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/wp-json/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1381 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index3e5f.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=43 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index4170.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/recursos-educativos/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/recursos-educativos/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmuseopedrodeosma.org%2Frecursos%2F&format=xml (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/wp-json/oembed/1.0/embed14ce), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1696 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index4fb0.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/05/16/la-noche-de-los-museos-de-barranco-3era-edicion/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/author/admin/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/author/admin/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/?p=1492 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/index1f6b.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/ (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/index.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=5 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index8e42.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=6 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index267f.html), file disappeared: No such file or directory
+01:21:50	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/?replytocom=7 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/en/2016/04/18/italian-glamour-lima-2016/index41b7.html), file disappeared: No such file or directory
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=1483
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=1483 to http://museopedrodeosma.org/en/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/ to http://museopedrodeosma.org/2016/04/18/las-mujeres-en-nuestra-coleccion-recorrido-tematico/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=931
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=931 to http://museopedrodeosma.org/en/2016/02/26/harto-arte/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/26/harto-arte/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/26/harto-arte/ to http://museopedrodeosma.org/2016/02/26/harto-arte/
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/en/?p=924
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/en/?p=924 to http://museopedrodeosma.org/en/2016/02/26/vuelve-la-noche-de-los-museos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/02/26/vuelve-la-noche-de-los-museos/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/2016/02/26/vuelve-la-noche-de-los-museos/ to http://museopedrodeosma.org/2016/02/26/vuelve-la-noche-de-los-museos/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/es/category/uncategorized/
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/es/category/uncategorized/ to http://museopedrodeosma.org/category/uncategorized/
+01:21:50	Warning: 	Moved Temporarily for museopedrodeosma.org/?p=1348
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/?p=1348 to http://museopedrodeosma.org/en/?p=1348
+01:21:50	Warning: 	Moved Permanently for museopedrodeosma.org/?p=1352
+01:21:50	Warning: 	File has moved from museopedrodeosma.org/?p=1352 to http://museopedrodeosma.org/sesion-de-fotos-filmaciones/
+01:21:50	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: museopedrodeosma.org/?p=1356
+01:21:51	Warning: 	Moved Permanently for museopedrodeosma.org/?p=1356
+01:21:51	Warning: 	File has moved from museopedrodeosma.org/?p=1356 to http://museopedrodeosma.org/reproduccion-de-imagen/
+01:21:51	Warning: 	HTML file (870 bytes) retransferred due to lack of cache: museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=9
+01:21:52	Warning: 	Moved Temporarily for museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=9
+01:21:52	Warning: 	File has moved from museopedrodeosma.org/es/2016/04/18/italian-glamour-lima-2016/?replytocom=9 to http://museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=9
+01:21:52	Warning: 	engine: warning: unserialize error for museopedrodeosma.org/?p=1492 (/home/merunga/websites/museopedrodeosma/museopedrodeosma.org/index1f6b.html), file disappeared: No such file or directory
+01:21:52	Warning: 	HTML file (53654 bytes) retransferred due to lack of cache: museopedrodeosma.org/2016/04/18/italian-glamour-lima-2016/?replytocom=5
+01:21:57	Error: 	"Not Found" (404) at link museopedrodeosma.org/ckfinder/userfiles/files/inicial%20Pre%20visita(1).pdf (from museopedrodeosma.org/en/recursos/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 2 minutes 16 seconds : 415 links scanned, 382 files written (50551385 bytes overall), 45 files updated [2060332 bytes received at 15149 bytes/sec], 365796 bytes transferred using HTTP compression in 3 files, ratio 35%, 1.3 requests per connection
+(10 errors, 394 warnings, 0 messages)

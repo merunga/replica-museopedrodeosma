@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'mi-fuente';
+				font-style: normal;
+				src: url('160328034521mi-fuente.eot');
+				src: local('mi-fuente'), url('160328034521mi-fuente.eot') format('embedded-opentype'), url('160328034521mi-fuente.woff') format('woff');
+			}
+						body{
+					font-family: 'mi-fuente' !important;
+				}
+		
